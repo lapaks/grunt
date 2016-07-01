@@ -56,8 +56,8 @@ module.exports = function(grunt) {
 INSTALL GRUNT
 npm install grunt --save-dev
 
-USEFUL LINKS
-GRUNT
+USEFUL LINKS<br>
+GRUNT<br>
 http://gruntjs.com/getting-started#installing-the-cli
 https://www.youtube.com/watch?v=Pog9WzzXUO0&index=9&list=PLpP9FLMkNf55_LqrPuSUxcs84bMvQiPD8
 
