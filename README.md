@@ -56,10 +56,10 @@ module.exports = function(grunt) {
 INSTALL GRUNT
 npm install grunt --save-dev
 
-USEFUL LINKS<br>
+<b>USEFUL LINKS</b><br>
 GRUNT<br>
-http://gruntjs.com/getting-started#installing-the-cli
-https://www.youtube.com/watch?v=Pog9WzzXUO0&index=9&list=PLpP9FLMkNf55_LqrPuSUxcs84bMvQiPD8
+http://gruntjs.com/getting-started#installing-the-cli<br>
+https://www.youtube.com/watch?v=Pog9WzzXUO0&index=9&list=PLpP9FLMkNf55_LqrPuSUxcs84bMvQiPD8<br>
 
-GIT REMOTE CONNECTION
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+GIT REMOTE CONNECTION<br>
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/<br>
